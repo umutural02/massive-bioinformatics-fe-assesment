@@ -1,7 +1,9 @@
+import { notifyError, notifySuccess } from "./services/NotificationService";
+
 function App() {
   return (
     <div className="App">
-      <button class="btn">Button</button>
+      <button className="btn" onClick={() => notifyError("Yeah")}>Button</button>
     </div>
   );
 }
