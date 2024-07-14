@@ -1,7 +1,7 @@
 {
   "name": "massive-bioinformatics-fe-assesment",
   "version": "0.1.0",
-  "homepage": "https://umutural02.github.io/massive-bioinformatics-fe-assesment",
+  "homepage": "/massive-bioinformatics-fe-assesment/#/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",

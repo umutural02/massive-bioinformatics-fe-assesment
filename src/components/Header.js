@@ -14,16 +14,10 @@ function Header(){
             </div>
             <ul>
                 <li>
-                    <a href="/" className='btn btn-ghost'>Home</a>
+                    <a href="#/" className='btn btn-ghost'>Home</a>
                 </li>
                 <li>
-                    <a href="/characters" className='btn btn-ghost'>Characters</a>
-                </li>
-                <li>
-                    <a href="/locations" className='btn btn-ghost'>Locations</a>
-                </li>
-                <li>
-                    <a href="/episodes" className='btn btn-ghost'>Episodes</a>
+                    <a href="#/characters" className='btn btn-ghost'>Characters</a>
                 </li>
             </ul>
             <div className="flex-none">
