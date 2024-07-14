@@ -2,9 +2,17 @@ import { useEffect, useState } from "react";
 import { notifyError } from "./services/NotificationService";
 import { get } from "./services/ApiService";
 
+import { themeChange } from 'theme-change'
+
+
+
 function App() {
 
   const [data, setData] = useState(null);
+
+  useEffect(() => {
+    themeChange(false)
+  }, [])
 
   useEffect(() => {
 
