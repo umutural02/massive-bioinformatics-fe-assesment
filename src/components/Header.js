@@ -10,8 +10,22 @@ function Header(){
     return (
         <div className="navbar bg-base-100">
             <div className="flex-1">
-                <button className="btn btn-ghost text-xl">Rick & Morty Characters</button>
+                <button className="btn btn-ghost text-xl">Rick & Morty</button>
             </div>
+            <ul>
+                <li>
+                    <a href="/" className='btn btn-ghost'>Home</a>
+                </li>
+                <li>
+                    <a href="/characters" className='btn btn-ghost'>Characters</a>
+                </li>
+                <li>
+                    <a href="/locations" className='btn btn-ghost'>Locations</a>
+                </li>
+                <li>
+                    <a href="/episodes" className='btn btn-ghost'>Episodes</a>
+                </li>
+            </ul>
             <div className="flex-none">
                 {
                 currentTheme === 'dark' ? 
