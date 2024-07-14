@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { BrowserRouter, HashRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 import { themeChange } from 'theme-change'
 
