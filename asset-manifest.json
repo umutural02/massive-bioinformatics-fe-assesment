@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/massive-bioinformatics-fe-assesment/static/css/main.b6ad1f66.css",
-    "main.js": "/massive-bioinformatics-fe-assesment/static/js/main.6991f903.js",
+    "main.js": "/massive-bioinformatics-fe-assesment/static/js/main.d740f63e.js",
     "index.html": "/massive-bioinformatics-fe-assesment/index.html",
     "main.b6ad1f66.css.map": "/massive-bioinformatics-fe-assesment/static/css/main.b6ad1f66.css.map",
-    "main.6991f903.js.map": "/massive-bioinformatics-fe-assesment/static/js/main.6991f903.js.map"
+    "main.d740f63e.js.map": "/massive-bioinformatics-fe-assesment/static/js/main.d740f63e.js.map"
   },
   "entrypoints": [
     "static/css/main.b6ad1f66.css",
-    "static/js/main.6991f903.js"
+    "static/js/main.d740f63e.js"
   ]
 }
